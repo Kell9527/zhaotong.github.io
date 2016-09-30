@@ -1,2 +1,2 @@
 # zhaotong.github.io
-个人简历地址：https://github.com/Kell9527/zhaotong.github.io/tree/gh-pages
+个人简历地址：https://kell9527.github.io/zhaotong.github.io/
