@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:"arial",sans-serif;
+}
+ul li{
+    list-style-type: none;
+}
+
+.header{
+    background-image: url("images/jianli.jpg") ;
+    height: 495px;
+    width: 990px;
+    margin: 0 auto;
+}
+.yiyuan {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-top: 170px;
+    font-style: inherit;
+}
+.menu{
+    background: #1e243a;
+    width: 990px;
+    margin:0 auto;
+    height: 290px;
+}
+.zhaopian{
+    width: 200px;
+    height: 206px;
+    background: #1e243a;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+    top: -320px;
+    clear: both;
+    overflow: hidden;
+}
+.zhaopian img{
+    width: 200px;
+    height: 206px;
+    background: #1e243a;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+.zhongjian{
+   margin-left: 100px;
+}
+.zhongjian li{
+    float: left;
+    color: #248982;
+    font-size: 20px;
+    margin-top: 142px ;
+    margin-right:190px ;
+}
+.zhongjian li p{
+    color: white;
+    font-size: 12px;
+    padding-top: 10px;
+    margin: 2px;
+}
+.jineng{
+    background: #192233;
+    margin: 0 auto;
+    width: 990px;
+    height: 500px;
+}
+.jineng p{
+    padding-top: 20px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.jineng dl{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    border: 2px solid white;
+    margin-left: 110px;
+    padding: 5px;
+
+}
+.jineng dt{
+    background: white;
+    color: red;
+}
+.jineng dd:hover{
+    background: white;
+    color: yellow;
+}
+.jineng a{
+    font-size: 50px;
+    font-style: oblique;
+    float: left;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.jineng a:hover{
+    color: white;
+}
