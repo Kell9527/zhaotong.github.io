@@ -35,9 +35,7 @@ ul li{
     -webkit-border-radius: 50%;
     margin: 0 auto;
     position: relative;
-    top: -320px;
-    clear: both;
-    overflow: hidden;
+    top: -100px;
 }
 .zhaopian img{
     width: 200px;
@@ -54,7 +52,7 @@ ul li{
     float: left;
     color: #248982;
     font-size: 20px;
-    margin-top: 142px ;
+    margin-top: -55px ;
     margin-right:190px ;
 }
 .zhongjian li p{
